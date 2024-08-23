@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Caio Simonassi</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h1 align="center">Caio Simonassi</h1>
+<h3 align="center">A passionate newbie frontend developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memlith&label=Profile%20views&color=0e75b6&style=flat" alt="memlith" /> </p>
 
-- 🌱 I’m currently learning **Cross-Platform SW Dev**
+- 🌱 I’m currently learning **Cross-Platform Software Developement**
+- 📚 I'm a student at **FATEC Indaiatuba**
 - 📫 How to reach me **caio.simonassi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
