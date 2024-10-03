@@ -1,11 +1,11 @@
 <h1 align="center">Caio Simonassi</h1>
 <h3 align="center">A passionate newbie fullstack developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=memlith&label=Profile%20views&color=0e75b6&style=flat" alt="memlith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=memlith&label=Profile%20views&color=0e75b6&style=flat" alt="memlith"/> </p>
 
-<p>I’m currently learning **Cross-Platform Software Developement**</p>
-<p>I'm a student at **FATEC DR. ARCHIMEDES LAMMOGLIA - Indaiatuba**</p>
-<p>How to reach me **caio.simonassi@hotmail.com**</p>
+I’m currently learning **Cross-Platform Software Developement**
+I'm a student at **FATEC DR. ARCHIMEDES LAMMOGLIA - Indaiatuba**
+How to reach me **caio.simonassi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
