@@ -1,5 +1,5 @@
 <h1 align="center">Caio Simonassi</h1>
-<h3 align="center">A passionate newbie frontend developer from Brasil</h3>
+<h3 align="center">A passionate newbie fullstack developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memlith&label=Profile%20views&color=0e75b6&style=flat" alt="memlith" /> </p>
 
