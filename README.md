@@ -1,5 +1,8 @@
 # Caio Simonassi
-Hello World
+Hello World!
+Estudante de Desenvolvimento de Software Multiplataforma
+FATEC DR. ARCHIMEDES LAMMOGLIA
+Indaiatuba/SP
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosimonassi/)
