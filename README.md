@@ -19,10 +19,5 @@ Indaiatuba/SP
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ### Idiomas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" width="30" height="20" />
-
-
-
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memlith&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=ff0000&text_color=FFF&hide_title=true&hide_stars=true)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=memlith&layout=compact&bg_color=000&border_color=fff&title_color=fff&text_color=FFF&hide_title=true)
