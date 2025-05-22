@@ -3,11 +3,15 @@
 Estudante de Desenvolvimento de Software Multiplataforma\
 FATEC DR. ARCHIMEDES LAMMOGLIA\
 Indaiatuba/SP
+## Hobbies
+Games\
+Guitarrista Inciante, Genero favorito Metal\
+Amante de Hardware
 
 ## Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/caiosimonassi/)\
-[Instagram](https://www.instagram.com/simonassicaio.jpg/)\
-#OpenToWork
+[LinkedIn](https://www.linkedin.com/in/caiosimonassi/) #OpenToWork\
+[Instagram](https://www.instagram.com/simonassicaio.jpg/)
+
 
 ## Portifolio
 [Portfolio](https://seulink.com)
