@@ -3,21 +3,31 @@
 Estudante de Desenvolvimento de Software Multiplataforma\
 FATEC DR. ARCHIMEDES LAMMOGLIA\
 Indaiatuba/SP
+
 ## Conecte-se comigo
 [LinkedIn](https://www.linkedin.com/in/caiosimonassi/)\
 [Instagram](https://www.instagram.com/simonassicaio.jpg/)\
-[GitHub](https://github.com/memlith)
+#OpenToWork
+
 ## Portifolio
-[Portfolio](https://seulink.com)\
+[Portfolio](https://seulink.com)
+
 ## Habilidades
-### Linguagens
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Linguagens & Frameworks
+HTML/CSS\
+Tailwind\
+Python\
+PHP/Laravel\
+C/C++\
+SQL
+
 ### Ferramentas
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+GIT
+Figma
+Docker
+Oracle VM
+Microsoft Office
+
 ### Idiomas
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" width="30" height="20" />
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=memlith&layout=compact&bg_color=000&border_color=fff&title_color=fff&text_color=FFF&hide_title=true)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> Portugues Brasil (Nativo) <br>
+<img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" width="30" height="20" /> Inglês Avançado
