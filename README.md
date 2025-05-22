@@ -22,10 +22,10 @@ C/C++\
 SQL
 
 ### Ferramentas
-GIT
-Figma
-Docker
-Oracle VM
+GIT\
+Figma\
+Docker\
+Oracle VM\
 Microsoft Office
 
 ### Idiomas
