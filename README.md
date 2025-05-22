@@ -1,14 +1,14 @@
-# Caio Simonassi
-Hello World!\
+# `Hello World!`
+### I am Caio Simonassi
 Estudante de Desenvolvimento de Software Multiplataforma\
 FATEC DR. ARCHIMEDES LAMMOGLIA\
 Indaiatuba/SP
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosimonassi/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simonassicaio.jpg/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memlith)
+[LinkedIn](https://www.linkedin.com/in/caiosimonassi/)\
+[Instagram](https://www.instagram.com/simonassicaio.jpg/)\
+[GitHub](https://github.com/memlith)
 ## Portifolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com) Sob Reforma
+[Portfolio](https://seulink.com)\
 ## Habilidades
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
