@@ -9,7 +9,7 @@ Guitarrista Inciante, Genero favorito Metal\
 Amante de Hardware
 
 ## Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/caiosimonassi/) #OpenToWork\
+[LinkedIn](https://www.linkedin.com/in/caiosimonassi/)\
 [Instagram](https://www.instagram.com/simonassicaio.jpg/)
 
 
