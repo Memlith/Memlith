@@ -2,7 +2,7 @@
 ### I am Caio Simonassi
 Estudante de Desenvolvimento de Software Multiplataforma\
 FATEC DR. ARCHIMEDES LAMMOGLIA\
-Indaiatuba/SP
+Indaiatuba - SP - Brasil
 ## Hobbies
 Games\
 Guitarrista Inciante, Genero favorito Metal\
