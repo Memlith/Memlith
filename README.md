@@ -31,7 +31,7 @@ GIT\
 Figma\
 Docker\
 Oracle VM\
-Microsoft Office\
+Microsoft Office
 
 ### Idiomas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> Portugues Brasil (Nativo) <br>
