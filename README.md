@@ -1,32 +1,32 @@
 # `Hello World!`
 ### I am Caio Simonassi
-Estudante de Desenvolvimento de Software Multiplataforma\
-FATEC DR. ARCHIMEDES LAMMOGLIA\
+Software Development Studen\
+Working on PROZ EDUCACAO\
 Indaiatuba - SP - Brasil
 ## Hobbies
 Games\
-Guitarrista Inciante, Genero favorito Metal\
-Amante de Hardware
+Begginer Guitar Player\
+Magic, The Gathering\
 
-## Conecte-se comigo
+## Connect with me
 [LinkedIn](https://www.linkedin.com/in/caiosimonassi/)\
-[Instagram](https://www.instagram.com/simonassicaio.jpg/)
+[Instagram](https://www.instagram.com/iamemlith/)
 
 
 ## Portifolio
 [Portfolio]()
 
-## Habilidades
-### Linguagens & Frameworks
-HTML / CSS\
-Tailwind\
+## Skills
+### Langs & Frameworks
+Linux\
+HTML / CSS / Tailwind\
 Python\
 PHP / Laravel\
 C/C++\
-Java\
-SQL
+Java / Springboot\
+SQL / noSQL
 
-### Ferramentas
+### Tools
 GIT\
 Figma\
 Docker\
@@ -34,5 +34,5 @@ Oracle VM\
 Microsoft Office
 
 ### Idiomas
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> Portugues Brasil (Nativo) <br>
-<img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" width="30" height="20" /> Inglês Avançado
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> Portugues Brasil (Native) <br>
+<img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" width="30" height="20" /> Advanced English
