@@ -17,7 +17,6 @@ Magic, The Gathering\
 [Portfolio]()
 
 ## Skills
-### Langs & Frameworks
 Linux\
 HTML / CSS / Tailwind\
 Python\
@@ -26,13 +25,11 @@ C/C++\
 Java / Springboot\
 SQL / noSQL
 
-### Tools
 GIT\
 Figma\
 Docker\
 Oracle VM\
 Microsoft Office
 
-### Idiomas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20" /> Portugues Brasil (Native) <br>
 <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="Estados Unidos" width="30" height="20" /> Advanced English
