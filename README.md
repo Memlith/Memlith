@@ -1,7 +1,7 @@
 # `Hello World!`
 ### I am Caio Simonassi
 Software Development Studen\
-Working on PROZ EDUCACAO\
+Working at Proz Educação\
 Indaiatuba - SP - Brasil
 ## Hobbies
 Games\
