@@ -6,7 +6,7 @@ Indaiatuba - SP - Brasil
 ## Hobbies
 Games\
 Begginer Guitar Player\
-Magic, The Gathering\
+Magic, The Gathering
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/caiosimonassi/)\
