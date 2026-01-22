@@ -61,22 +61,7 @@ Magic, The Gathering & Tabletops
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Memlith/Memlith/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Memlith/Memlith/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Memlith/Memlith/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=thugduck12&unique={true|1|on|yes})
 
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
 
 ###
