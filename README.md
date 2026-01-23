@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
@@ -47,7 +47,7 @@ Indaiatuba - SP - Brasil
 Games\
 Begginer Guitar Player\
 Magic, The Gathering & Tabletops
-### Currently Learning Node & React
+### Currently Learning Node.js & Next.js
 
 ###
 
