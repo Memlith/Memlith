@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/1280px-Pop%21_OS_Icon.svg.png" height="60" alt="popos logo"  />
 </div>
 
 ###
