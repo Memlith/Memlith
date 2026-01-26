@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋What's Up?</h1>
+<h1 align="left">Hey 👋 What's Up?</h1>
 
 ###
 
@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
@@ -30,7 +30,9 @@
   <a href="https://www.linkedin.com/in/iamcaiosimonassi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://instagram.com/iamemlith" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
   <a href="https://www.twitch.tv/memlith" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
@@ -40,23 +42,14 @@
 
 # `Hello World!`<br>
 ### I am Caio Simonassi
-Software Development Student - 4th semester\
-Working at Proz Educação\
-Indaiatuba - SP - Brasil
-## Hobbies
-Games\
-Begginer Guitar Player\
-Magic, The Gathering & Tabletops
-### Currently Learning Node.js & Next.js
+🎓 Software Development Student @ Fatec Indaiatuba\
+💼 Remote Intern @ Proz Educação\
+🌱 Learning: Node.js, Next.js, TypeScript\
+📍 Indaiatuba, SP - Brazil
+
+### Offline 
+🎸 Guitar (Beginner) • 🎮 Video Games • 🎲 Magic: The Gathering • ♟️ Tabletops
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=thugduck12&unique={true|1|on|yes})
-
-
-###
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=thugduck12&unique=true)
