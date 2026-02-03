@@ -43,7 +43,7 @@
 # `Hello World!`<br>
 ### I am Caio Simonassi
 🎓 Software Development Student @ Fatec Indaiatuba\
-💼 Remote Intern @ Proz Educação\
+💼 Remote Intern Developer @ Proz Educação\
 🌱 Learning: Node.js, Next.js, TypeScript\
 📍 Indaiatuba, SP - Brazil
 
