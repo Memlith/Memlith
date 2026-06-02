@@ -44,11 +44,11 @@
 ### I am Caio Simonassi
 🎓 Software Development Student @ Fatec Indaiatuba\
 💼 Remote Intern Developer @ Proz Educação\
-🌱 Learning: Node.js, Next.js, TypeScript\
+🌱 Learning: Node.js, React, TypeScript\
 📍 Indaiatuba, SP - Brazil
 
 ### Offline 
-🎸 Guitar (Beginner) • 🎮 Video Games • 🎲 Magic: The Gathering • ♟️ Tabletops
+🎸 Guitar (Beginner) • 🎮 Video Games • 🎲 Magic: The Gathering • ☕ Coffee
 
 ###
 
